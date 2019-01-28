@@ -4,8 +4,11 @@ Covers basics of loading satellite imagery with rasterio and plotting figures wi
 
 ## Software and Libraries
 **Name** (Version)
+
 **Python** (2.7)
+
 **rasterio** (1.0.13)
+
 **matplotlib** (3.0.2)
 
 ## Usage
